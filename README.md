@@ -1,2 +1,2 @@
 # NeuralNet
-Here is an example of a one layer neural network.
+Example of a neural network with one hidden layer.
